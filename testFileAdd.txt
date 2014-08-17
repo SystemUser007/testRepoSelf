@@ -1,4 +1,7 @@
+# Heading A
+## Heading B
 Lots of text
 goes right here
+## Heading B
 rigth now
 ABC
