@@ -9,6 +9,7 @@ goes right here
 rigth now
 ABC
 
+### Heading C
 * Item 1
 * Item 2
 * Item 3
